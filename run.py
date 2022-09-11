@@ -12,16 +12,27 @@ SCOPED_CREDS = CREDS.with_scopes(SCOPE)
 GSPREAD_CLIENT = gspread.authorize(SCOPED_CREDS)
 SHEET = GSPREAD_CLIENT.open('love_pizza')
 
-#Introducing the Customer and a Welcome Message.  
-#userName = input('Please enter your name: ')
-#welcomeMessage = f'Welcome to Love Pizza, Please may we take your order {userName}'
-#print(userName)
-#print(welcomeMessage)
+"""
+Welcoming user with name input and a welcome message
+"""
+userName = input('Please enter your name: ')
+welcomeMessage = f'Welcome to Love Pizza, Please may we take your order {userName}'
+print(userName)
+print(welcomeMessage)
 
-#read data from file 
 
-order_list = SHEET.worksheet('order_list')
+"""
+Linking worksheet to program and displaying menu for user
+"""
 
-data = order_list.get_all_values()
+order_str = SHEET.worksheet('order_list')
+data = order_str.get_all_values()
 
-print(data)
+selectMenu = f'Please select from the menu below'
+print(selectMenu)
+for pizza in data:
+    print(pizza)
+
+"""
+User option to place order and selecting what Pizza they require
+"""
