@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "love-pizza-362119",
+  "private_key_id": "1d7a1dcafe1541bf821961e398072919be05739d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCv8OkR3qbOc8cM\nP84B/6MpYB2JEqQZVzQLeL6uP0ZaqUkSV3dFFIcKVoqdJc76rkdlh6Xo0JEguyfL\nIMQ1csIqmlvNjwww/Jb/ycBHiedBjk3uP79UykAmoE1SCcs7KywmgrrpdxT8gbGr\nyqxJA/pE9yDTqGf+85g90UniHLVJqwn/ub36/guRTelLTgqI49myPZoo3Z2nZpca\ntW1ZaGCbc86FbNJKr/27osUavEFA0oNxvlq+nG1/3bIE5yrHTxdQ7sCZlxRYAYhh\nImGXJUmhxdn/iSG8uAbz/BUAIU1gPeV0Vy/QFsXP2BNNR6Qgddz9y++ukaxRi8iq\nhRJxpogpAgMBAAECggEAHIUZStfEQ2AaKn6nRsSpLrpRX1hhuGfd3GQwyK8iGO0r\nFqmOAGkw8LiRlKK91/3rPeaMut4gQGWGMFO56o4VMnG+Iuamy8QOOB18qTwN/B70\nvAOiYLy+RGSk1AEZbBh1+jIj2Vd/0+S0J8xdPCLEbWx/6j94yCe1jIPCDcColG27\n+JeMI1TTTgggbSjmXKHrBLSnN7izLUgj7dCdYzeBAsAaZI1gQsGnR8tX3acLAoA/\npbUX7BoOsQXf4kG8BJjc3wQpIGXQ2w5pFApoJq6w5OM/TVKnVJk5o8jDMHzocTgZ\n1s0TCeGzRg66j5jB0uU9PLsvYG8d+xMpLj4p8ie8nwKBgQDe15uRDOqbFPx+YAf7\nQOdqjU85YHxy82inVH4NgC1BlimZV1uBPnIbJVbVLfVlAk3BgCedhfjNTtwWJRBb\nstOieuUZ/qbtyXG2OfnbYJzcTBsSUXIiDJcX7KapdGJY/VaT7iL0A+HVFVopNWlS\n+h7im+BPFGUB8z2yD2ciRL6xQwKBgQDKHsSAytJ4Ha067xjpl4Z2C5ORgszJ7YqN\neDMUhhXGzjlrnM0jHWCMamZni4umGJU2bqMZGbLM1IS2tCvqK3AhnkNikIFYF6iB\nbW1RbN1VNgw5zeAjF938LHI6tMsvkRj1O6wopCalkvvhoI3PIL9jsHruxY/s3GE9\nW2gnbF/EIwKBgFnDYe/Q0yP7FSZWyoBECbPbDiGfoyGuuOZGW6xWiGRV95XEIaDz\nJYWXyd1/cMzqW6XpWIvUbn9NF8x3y5oUc7mMZYLOGDHKplpwChx7U1RN982uLxpW\nFfrWIeA6eG8+RUS7dSrz8WEjA7l7wVxiUlSX04gnP/TEJYL3P2UHagT/AoGAM0jt\nSVStZMb67oo+gv7sokU7s19CATahwlWueFWxbtli3nhR4MgSeG6C/2D8FTAFpGMc\nRUEtCiYeapF61xcgg5c5t+e8uhJ+siCG7XM3Eej93yjq51yl+dd5QIYhTDd/4rG6\ndDF6kOajvNNVSCoiBfSArNc6NrqQfdYUrnQkNIsCgYEAoORqZeX8KOy8nyLs/xku\nztJ3h3ZkTSLDyHTKduTjn9zYlkzq+cWgX+l9zR2wQC7KINeZDFelf+Fp9o9tCbYD\nQgtZII7QcKNF8WGLY/lqiEDi+Xp0DwSpf7uSywT9okYg91vbWDX9/tOn2YptMVcf\n6e2qXxFI8UJ/83jp5HUCHdk=\n-----END PRIVATE KEY-----\n",
+  "client_email": "love-pizza@love-pizza-362119.iam.gserviceaccount.com",
+  "client_id": "112018094452086756833",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/love-pizza%40love-pizza-362119.iam.gserviceaccount.com"
+}
