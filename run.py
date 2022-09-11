@@ -15,10 +15,16 @@ SHEET = GSPREAD_CLIENT.open('love_pizza')
 """
 Welcoming user with name input and a welcome message
 """
+dataAvailableDict = {}
 userName = input('Please enter your name: ')
+addressUser = input('Please enter your house number followed by your firstline of address: ')
+postcodeUser = input('Please enter your postcode: ')
 welcomeMessage = f'Welcome to Love Pizza, Please may we take your order {userName}'
 print(userName)
+print(addressUser, postcodeUser)
+print('*'*60)
 print(welcomeMessage)
+print('*'*60)
 
 
 """
@@ -34,5 +40,14 @@ for pizza in data:
     print(pizza)
 
 """
-User option to place order and selecting what Pizza they require
+Prompting user option to place order and selecting which Pizza they require
 """
+noPurchase = input('Would you like to continue ordering? (yes/no): ')
+if noPurchase.lower()=='yes':
+
+    pass
+else: 
+    print('Sorry you did not like our selection of our delicious freshly made Pizza , maybe next time') 
+
+
+
